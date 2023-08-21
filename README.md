@@ -7,7 +7,7 @@ PyShop is an online Python Ecommerce website built with Django, SQLite and Boots
 
 # Get Started
 To setup the PyShop project, here is the following guidelines:
-* Clone the repository <code>git clone https://github.com/thisishaykins/PyShop.git</code>
+* Clone the repository <code>git clone https://github.com/novendobi/PyShop.git</code>
 * Open Project folder on terminal 
 * Prepare your virtual environment <code>python3 -m venv venv</code> 
 * Activate your virtual environment <code>source env/bin/activate</code>
